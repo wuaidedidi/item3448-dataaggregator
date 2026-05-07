@@ -1,0 +1,5 @@
+backend/vendor/
+backend/composer.lock
+frontend/dist/
+frontend/node_modules/
+.DS_Store
